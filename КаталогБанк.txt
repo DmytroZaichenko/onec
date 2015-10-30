@@ -1,0 +1,41 @@
+     Организация    |  Банк |          Каталог                      | Экваринг  | Код склада |
+----------------------------------------------------------------------------------------------
+ТОВ "ДЦ Делта Спорт"|ВА_Банк|M:\1c_base\DataForBank\DC              |           |            |          
+ТОВ "ДЦ Делта Спорт"|Приват |M:\1c_base\DataForBank\Privat\dc       |           |            |          
+ТОВ "ДЦ Делта Спорт"|АКТА   |M:\1c_base\DataForBank\Akta_DC         |           |            |          
+ТОВ "ДЦ Делта Спорт"|Форум  |M:\1c_base\DataForBank\Forum_DC        |Да         |            |            
+ТОВ "ДЦ Делта Спорт"|УкрСиб |M:\1c_base\DataForBank\UKRSIB\DC       |Да         |            |
+
+ТОВ "Аламан-Крос"   |ВА_Банк|M:\1c_base\DataForBank\Livcon          |           |            | 
+ТОВ "Аламан-Крос"   |Приват |M:\1c_base\DataForBank\Privat\Alaman   |           |            |
+ТОВ "Аламан-Крос"   |УкрСиб |M:\1c_base\DataForBank\UKRSIB\Alaman   |Нет        |            |
+
+ТОВ "НОВИЙ ІМІДЖ"   |ВА_Банк|M:\1c_base\DataForBank\NewLook         |           |            |
+ТОВ "НОВИЙ ІМІДЖ"   |Приват |M:\1c_base\DataForBank\Privat\NL       |           |            |
+ТОВ "НОВИЙ ІМІДЖ"   |АКТА   |M:\1c_base\DataForBank\Akta_NL         |Да         |            |
+ТОВ "НОВИЙ ІМІДЖ"   |УкрСиб |M:\1c_base\DataForBank\UKRSIB\NL\      |           |            |
+ 
+ТОВ "ПАРЕТОН"       |Приват |M:\1c_base\DataForBank\Privat\dc       |           |            |
+ТОВ "ПАРЕТОН"       |АКТА   |M:\1c_base\DataForBank\Akta_Pareton    |
+ТОВ "ПАРЕТОН"       |Форум  |M:\1c_base\DataForBank\Forum_Pareton   |Нет        |            |
+ТОВ "ПАРЕТОН"       |УкрСиб |M:\1c_base\DataForBank\UKRSIB\Pareton  |           |            |
+
+ТОВ "Атлетикспорт"  |Форум  |M:\1c_base\DataForBank\Forum Atletik   |Нет        |            |  
+ТОВ "Атлетикспорт"  |УкрСиб |M:\1c_base\DataForBank\UKRSIB\Atlet    |           |            | 
+ТОВ "Атлетикспорт"  |Приват |M:\1c_base\DataForBank\Privat\Atletik  |           |            |
+
+ТОВ "Спортделюкс"   |Приват |M:\1c_base\DataForBank\Privat\SportD   |           |            |
+ТОВ "Спортделюкс"   |УкрСиб |M:\1c_base\DataForBank\UKRSIB\SportD   |           |            |
+
+
+
+
+
+
+
+
+
+
+
+
+
